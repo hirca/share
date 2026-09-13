@@ -1,0 +1,297 @@
+# Orijinal .mtl eksikti; malzeme adlarindan yeniden uretildi
+newmtl null_mat
+Kd 0.600 0.600 0.600
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.001
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.002
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.003
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.004
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.005
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.006
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.007
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.008
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.009
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.010
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.011
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.012
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.013
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.014
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.015
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.016
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.017
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.018
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.020
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.021
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.022
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.023
+Kd 0.500 0.520 0.550
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl Material.024
+Kd 0.400 0.420 0.450
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl chriome
+Kd 0.850 0.860 0.880
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl chrome2
+Kd 0.850 0.860 0.880
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl disc_mat
+Kd 0.350 0.350 0.370
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl disk_mat
+Kd 0.350 0.350 0.370
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl glass
+Kd 0.350 0.450 0.500
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+d 0.35
+
+newmtl glass.001
+Kd 0.350 0.450 0.500
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+d 0.35
+
+newmtl gold_mat
+Kd 0.650 0.520 0.180
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl paint
+Kd 0.720 0.100 0.100
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl plastic
+Kd 0.180 0.180 0.190
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl rim_mat
+Kd 0.720 0.730 0.750
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl stil_mat
+Kd 0.550 0.560 0.580
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl tire_mat
+Kd 0.060 0.060 0.070
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_006135058
+Kd 0.024 0.529 0.227
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_008061138
+Kd 0.031 0.239 0.541
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_028089177
+Kd 0.110 0.349 0.694
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_087225143
+Kd 0.341 0.882 0.561
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_113135006
+Kd 0.443 0.529 0.024
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_135006006
+Kd 0.529 0.024 0.024
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_154215229
+Kd 0.604 0.843 0.898
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_177148027
+Kd 0.694 0.580 0.106
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_224086086
+Kd 0.878 0.337 0.337
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_227153153
+Kd 0.890 0.600 0.600
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_228153184
+Kd 0.894 0.600 0.722
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_228214153
+Kd 0.894 0.839 0.600
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+
+newmtl wire_229154215
+Kd 0.898 0.604 0.843
+Ka 0.1 0.1 0.1
+Ks 0.25 0.25 0.25
+Ns 32
+

@@ -1,0 +1,799 @@
+# FBX malzemelerinden uretildi (duz renk; dokular tex/ altinda)
+newmtl m000
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Pneu.png
+
+newmtl m001
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1_1.png
+
+newmtl m002
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1_1.png
+
+newmtl m003
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1_1.png
+
+newmtl m004
+Kd 0.080 0.080 0.080
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 
+
+newmtl m005
+Kd 0.600 0.600 0.600
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 03.jpg
+
+newmtl m006
+Kd 0.940 0.940 0.940
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 
+
+newmtl m007
+Kd 0.950 0.950 0.950
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 
+
+newmtl m008
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Car Paint_1.png
+
+newmtl m009
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1_1.png
+
+newmtl m010
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1_1.png
+
+newmtl m011
+Kd 0.000 0.440 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 
+
+newmtl m012
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Car Paint_1.png
+
+newmtl m013
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 
+
+newmtl m014
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 2_1.png
+
+newmtl m015
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 1_1.png
+
+newmtl m016
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 4.jpg
+
+newmtl m017
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Light 1_1.png
+
+newmtl m018
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Light 4.jpg
+
+newmtl m019
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Light 4.jpg
+
+newmtl m020
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Light 2_1.png
+
+newmtl m021
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 3_1.png
+
+newmtl m022
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Car Paint_1.png
+
+newmtl m023
+Kd 0.800 0.573 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 
+
+newmtl m024
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1.png
+
+newmtl m025
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1.png
+
+newmtl m026
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1.png
+
+newmtl m027
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1.png
+
+newmtl m028
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Paint 1.png
+
+newmtl m029
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Paint 1.png
+
+newmtl m030
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Paint 1.png
+
+newmtl m031
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Paint 1.png
+
+newmtl m032
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Paint 1.png
+
+newmtl m033
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Paint 1.png
+
+newmtl m034
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.3  doku: Paint 1.png
+
+newmtl m035
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Paint 1.png
+
+newmtl m036
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.3  doku: Paint 1.png
+
+newmtl m037
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.3  doku: Paint 1.png
+
+newmtl m038
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.4  doku: Paint 1.png
+
+newmtl m039
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.5  doku: Paint 1.png
+
+newmtl m040
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1.png
+
+newmtl m041
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 2.png
+
+newmtl m042
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 1.png
+
+newmtl m043
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Paint 1.png
+
+newmtl m044
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Paint 1.png
+
+newmtl m045
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.3  doku: Paint 1.png
+
+newmtl m046
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Paint 1.png
+
+newmtl m047
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.3  doku: Paint 1.png
+
+newmtl m048
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.4  doku: Paint 1.png
+
+newmtl m049
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.5  doku: Paint 1.png
+
+newmtl m050
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.4  doku: Paint 1.png
+
+newmtl m051
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.5  doku: Paint 1.png
+
+newmtl m052
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.6  doku: Paint 1.png
+
+newmtl m053
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.7  doku: Paint 1.png
+
+newmtl m054
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.4  doku: Paint 1.png
+
+newmtl m055
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.5  doku: Paint 1.png
+
+newmtl m056
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.6  doku: Paint 1.png
+
+newmtl m057
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: 
+
+newmtl m058
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 1.png
+
+newmtl m059
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.7  doku: Paint 1.png
+
+newmtl m060
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.4  doku: Paint 1.png
+
+newmtl m061
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.5  doku: Paint 1.png
+
+newmtl m062
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.6  doku: Paint 1.png
+
+newmtl m063
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.6  doku: Paint 1.png
+
+newmtl m064
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.8  doku: Paint 1.png
+
+newmtl m065
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.7  doku: Paint 1.png
+
+newmtl m066
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.8  doku: Paint 1.png
+
+newmtl m067
+Kd 0.550 0.550 0.550
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Paint 2.png
+
+newmtl m068
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.9  doku: Paint 1.png
+
+newmtl m069
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Car Paint.png
+
+newmtl m070
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.8  doku: Paint 1.png
+
+newmtl m071
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 1.png
+
+newmtl m072
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.10  doku: Paint 1.png
+
+newmtl m073
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Car Paint.png
+
+newmtl m074
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Light 1.png
+
+newmtl m075
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.11  doku: Paint 1.png
+
+newmtl m076
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.7  doku: Paint 1.png
+
+newmtl m077
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.9  doku: Paint 1.png
+
+newmtl m078
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.6  doku: Paint 1.png
+
+newmtl m079
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.12  doku: Paint 1.png
+
+newmtl m080
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint  doku: Light 3.png
+
+newmtl m081
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Car Paint.png
+
+newmtl m082
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.10  doku: Paint 1.png
+
+newmtl m083
+Kd 0.550 0.550 0.550
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Paint 2.png
+
+newmtl m084
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.1  doku: Light 3.png
+
+newmtl m085
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.11  doku: Paint 1.png
+
+newmtl m086
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.13  doku: Paint 1.png
+
+newmtl m087
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.14  doku: Paint 1.png
+
+newmtl m088
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.3  doku: Car Paint.png
+
+newmtl m089
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.9  doku: Paint 1.png
+
+newmtl m090
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.10  doku: Paint 1.png
+
+newmtl m091
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.12  doku: Paint 1.png
+
+newmtl m092
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.15  doku: Paint 1.png
+
+newmtl m093
+Kd 0.220 0.220 0.220
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.8  doku: Paint 1.png
+
+newmtl m094
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.13  doku: Paint 1.png
+
+newmtl m095
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.16  doku: Paint 1.png
+
+newmtl m096
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.7  doku: Paint 1.png
+
+newmtl m097
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.8  doku: Paint 1.png
+
+newmtl m098
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.9  doku: Paint 1.png
+
+newmtl m099
+Kd 0.550 0.550 0.550
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.2  doku: Paint 2.png
+
+newmtl m100
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.14  doku: Paint 1.png
+
+newmtl m101
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.15  doku: Paint 1.png
+
+newmtl m102
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.4  doku: Car Paint.png
+
+newmtl m103
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.16  doku: Paint 1.png
+
+newmtl m104
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.17  doku: Paint 1.png
+
+newmtl m105
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.18  doku: Paint 1.png
+
+newmtl m106
+Kd 1.000 1.000 1.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.5  doku: Car Paint.png
+
+newmtl m107
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.19  doku: Paint 1.png
+
+newmtl m108
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.17  doku: Paint 1.png
+
+newmtl m109
+Kd 0.100 0.100 0.100
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.18  doku: Paint 1.png
+
+newmtl m110
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.11  doku: Paint 1.png
+
+newmtl m111
+Kd 0.800 0.800 0.800
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.12  doku: Paint 1.png
+
+newmtl m112
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.20  doku: Paint 1.png
+
+newmtl m113
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Paint.21  doku: Paint 1.png
+

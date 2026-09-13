@@ -1,0 +1,533 @@
+# FBX malzemelerinden uretildi (duz renk)
+newmtl m000
+Kd 0.502 0.502 0.502
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_graphic1
+
+newmtl m001
+Kd 0.176 0.176 0.176
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242397
+
+newmtl m002
+Kd 0.251 0.251 0.251
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242396
+
+newmtl m003
+Kd 0.196 0.196 0.196
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_black_metal1
+
+newmtl m004
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242404
+
+newmtl m005
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_light
+
+newmtl m006
+Kd 0.722 0.722 0.722
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_white_light
+
+newmtl m007
+Kd 0.243 0.243 0.243
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Tyre1
+
+newmtl m008
+Kd 0.176 0.176 0.176
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: PLASTIC
+
+newmtl m009
+Kd 0.208 0.208 0.208
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: leather2black
+
+newmtl m010
+Kd 0.294 0.294 0.294
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: leather
+
+newmtl m011
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: fabric_black
+
+newmtl m012
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: fabric
+
+newmtl m013
+Kd 0.165 0.165 0.165
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: plastic_interior
+
+newmtl m014
+Kd 0.722 0.098 0.039
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: 010
+
+newmtl m015
+Kd 0.122 0.122 0.122
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: plastic3
+
+newmtl m016
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: interior1
+
+newmtl m017
+Kd 0.141 0.141 0.141
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: 05
+
+newmtl m018
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: 04
+
+newmtl m019
+Kd 0.137 0.137 0.137
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: 13 - DefaultBB
+
+newmtl m020
+Kd 0.251 0.251 0.251
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242444
+
+newmtl m021
+Kd 0.098 0.098 0.098
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242460
+
+newmtl m022
+Kd 0.243 0.243 0.243
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242443
+
+newmtl m023
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2241344
+
+newmtl m024
+Kd 0.627 0.157 0.078
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: helix
+
+newmtl m025
+Kd 0.502 0.502 0.502
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: CONTINER
+
+newmtl m026
+Kd 0.196 0.196 0.196
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242401
+
+newmtl m027
+Kd 0.447 0.447 0.447
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_silver_dirt continer
+
+newmtl m028
+Kd 0.137 0.137 0.137
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Tyre
+
+newmtl m029
+Kd 0.243 0.243 0.243
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck
+
+newmtl m030
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: number
+
+newmtl m031
+Kd 1.000 0.851 0.020
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_tagg
+
+newmtl m032
+Kd 1.000 0.204 0.020
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_tagg_red
+
+newmtl m033
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: truck_orange_light
+
+newmtl m034
+Kd 0.545 0.498 0.447
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: leather2
+
+newmtl m035
+Kd 0.718 0.718 0.714
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242457
+
+newmtl m036
+Kd 0.412 0.412 0.412
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242445
+
+newmtl m037
+Kd 0.176 0.176 0.176
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242446
+
+newmtl m038
+Kd 0.686 0.553 0.459
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242400
+
+newmtl m039
+Kd 0.176 0.176 0.176
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: PLASTIC int
+
+newmtl m040
+Kd 0.765 0.765 0.765
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: METAL
+
+newmtl m041
+Kd 0.106 0.106 0.106
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: int mon
+
+newmtl m042
+Kd 0.098 0.098 0.098
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: color black MAT
+
+newmtl m043
+Kd 0.165 0.165 0.165
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: black_plastic_interior
+
+newmtl m044
+Kd 0.565 0.565 0.565
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: silver_interior1
+
+newmtl m045
+Kd 0.565 0.565 0.565
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: int5
+
+newmtl m046
+Kd 0.502 0.502 0.502
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: int tag6
+
+newmtl m047
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: KM
+
+newmtl m048
+Kd 0.176 0.176 0.176
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: black_plastic
+
+newmtl m049
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: 16 - Default
+
+newmtl m050
+Kd 0.769 0.769 0.769
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: (p)
+
+newmtl m051
+Kd 0.165 0.165 0.165
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: benz_black_plastic_interior
+
+newmtl m052
+Kd 0.565 0.565 0.565
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: silver_interior1
+
+newmtl m053
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: int6
+
+newmtl m054
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: MONITOR INT
+
+newmtl m055
+Kd 0.773 0.773 0.773
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: 13 - Default
+
+newmtl m056
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: silver_interior1
+
+newmtl m057
+Kd 0.165 0.165 0.165
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2234307
+
+newmtl m058
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: STEERING WEEL TAG
+
+newmtl m059
+Kd 0.176 0.176 0.176
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: 18 - Default
+
+newmtl m060
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: glass head light
+
+newmtl m061
+Kd 0.639 0.639 0.639
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: glass_front_black
+
+newmtl m062
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: glass head
+
+newmtl m063
+Kd 0.098 0.098 0.098
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242460S
+
+newmtl m064
+Kd 0.098 0.098 0.098
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: color black gl
+
+newmtl m065
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242447
+
+newmtl m066
+Kd 0.137 0.137 0.137
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Tyre
+
+newmtl m067
+Kd 0.765 0.765 0.765
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: head light bump
+
+newmtl m068
+Kd 0.765 0.765 0.765
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242483
+
+newmtl m069
+Kd 0.000 0.000 0.000
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: head light white lightS
+
+newmtl m070
+Kd 0.565 0.565 0.565
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: head light black
+
+newmtl m071
+Kd 0.500 0.500 0.500
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242449
+
+newmtl m072
+Kd 0.196 0.196 0.196
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242450
+
+newmtl m073
+Kd 0.137 0.137 0.137
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: plan
+
+newmtl m074
+Kd 0.412 0.396 0.384
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: Material #2242448
+
+newmtl m075
+Kd 0.212 0.357 0.494
+Ka 0.05 0.05 0.05
+Ks 0.2 0.2 0.2
+Ns 32
+# kaynak: helix1
+
