@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "id": "BOX12",
+  "name": "Box Truck 12 t",
+  "order": 10,
+  "axes": "iso8855",
+  "gltf_up_axis": "z",
+  "files": {
+    "chassis": "chassis.glb",
+    "wheel": "wheel.glb"
+  },
+  "chassis": {
+    "origin": {
+      "xy": "axle_mid",
+      "z": "hub_line"
+    },
+    "paint_material": "paint_primary",
+    "calibration": {
+      "pos": [
+        0.0,
+        0.0,
+        0.4491
+      ],
+      "ori": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "wheels": {
+    "radius": 0.4491,
+    "source": "front_left",
+    "static_pose": {
+      "FL": [
+        2.2214,
+        1.0174,
+        0.0
+      ],
+      "FR": [
+        2.2214,
+        -1.0174,
+        0.0
+      ],
+      "RL": [
+        -2.2214,
+        1.041,
+        0.0
+      ],
+      "RR": [
+        -2.2214,
+        -1.041,
+        0.0
+      ]
+    }
+  },
+  "visuals": {
+    "source_model": "rigid box truck, 2 axles",
+    "wheelbase_m": 4.4428,
+    "textures": "none_flat_material_colors",
+    "brand_marks": "removed",
+    "license_plates": "removed",
+    "extra_axles": "none",
+    "paint_response": {
+      "metallic": 0.25,
+      "roughness": 0.35
+    },
+    "default_paint": {
+      "primary": {
+        "name": "Signal White",
+        "hex": "#E8E9E6"
+      }
+    }
+  },
+  "calibration_profiles": [
+    {
+      "label": "Front axle midpoint",
+      "pos": [
+        -2.2214,
+        0.0,
+        0.0
+      ],
+      "ori": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Drive axle midpoint",
+      "pos": [
+        2.2214,
+        0.0,
+        0.0
+      ],
+      "ori": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

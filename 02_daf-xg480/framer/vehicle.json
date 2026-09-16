@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "id": "REEFER40",
+  "name": "Reefer Semitrailer 4x2",
+  "order": 20,
+  "axes": "iso8855",
+  "gltf_up_axis": "z",
+  "files": {
+    "chassis": "chassis.glb",
+    "wheel": "wheel.glb"
+  },
+  "chassis": {
+    "origin": {
+      "xy": "axle_mid",
+      "z": "hub_line"
+    },
+    "paint_material": "paint_primary",
+    "calibration": {
+      "pos": [
+        0.0,
+        0.0,
+        0.5465
+      ],
+      "ori": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "wheels": {
+    "radius": 0.5465,
+    "source": "front_left",
+    "static_pose": {
+      "FL": [
+        2.036,
+        1.152,
+        0.0
+      ],
+      "FR": [
+        2.036,
+        -1.154,
+        0.0
+      ],
+      "RL": [
+        -2.036,
+        1.1181,
+        0.0
+      ],
+      "RR": [
+        -2.036,
+        -1.1188,
+        0.0
+      ]
+    }
+  },
+  "visuals": {
+    "source_model": "4x2 tractor + reefer semitrailer",
+    "wheelbase_m": 4.072,
+    "textures": "none_flat_material_colors",
+    "brand_marks": "removed",
+    "license_plates": "removed",
+    "extra_axles": "trailer tridem and drive-axle inner twins are baked into chassis.glb (static)",
+    "paint_response": {
+      "metallic": 0.25,
+      "roughness": 0.35
+    },
+    "default_paint": {
+      "primary": {
+        "name": "Ice Porcelain",
+        "hex": "#E3E4E1"
+      }
+    }
+  },
+  "calibration_profiles": [
+    {
+      "label": "Front axle midpoint",
+      "pos": [
+        -2.036,
+        0.0,
+        0.0
+      ],
+      "ori": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Drive axle midpoint",
+      "pos": [
+        2.036,
+        0.0,
+        0.0
+      ],
+      "ori": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

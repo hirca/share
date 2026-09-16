@@ -1,0 +1,104 @@
+{
+  "schema": 1,
+  "id": "CURTAIN40",
+  "name": "Curtainside Semitrailer 4x2",
+  "order": 30,
+  "axes": "iso8855",
+  "gltf_up_axis": "z",
+  "files": {
+    "chassis": "chassis.glb",
+    "wheel": "wheel.glb",
+    "cockpit": "cockpit.glb"
+  },
+  "chassis": {
+    "origin": {
+      "xy": "axle_mid",
+      "z": "hub_line"
+    },
+    "paint_material": "paint_primary",
+    "calibration": {
+      "pos": [
+        0.0,
+        0.0,
+        0.54
+      ],
+      "ori": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "wheels": {
+    "radius": 0.54,
+    "source": "front_left",
+    "static_pose": {
+      "FL": [
+        1.9642,
+        1.1082,
+        0.0
+      ],
+      "FR": [
+        1.9642,
+        -1.1078,
+        0.0
+      ],
+      "RL": [
+        -1.9642,
+        1.1353,
+        0.0
+      ],
+      "RR": [
+        -1.9642,
+        -1.1345,
+        0.0
+      ]
+    }
+  },
+  "visuals": {
+    "source_model": "4x2 tractor + curtainside semitrailer",
+    "wheelbase_m": 3.9285,
+    "textures": "none_flat_material_colors",
+    "brand_marks": "removed",
+    "license_plates": "removed",
+    "extra_axles": "trailer tridem and drive-axle inner twins are baked into chassis.glb (static)",
+    "paint_response": {
+      "metallic": 0.25,
+      "roughness": 0.35
+    },
+    "default_paint": {
+      "primary": {
+        "name": "Graphite Blue",
+        "hex": "#2E3A44"
+      }
+    }
+  },
+  "calibration_profiles": [
+    {
+      "label": "Front axle midpoint",
+      "pos": [
+        -1.9642,
+        0.0,
+        0.0
+      ],
+      "ori": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Drive axle midpoint",
+      "pos": [
+        1.9642,
+        0.0,
+        0.0
+      ],
+      "ori": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
